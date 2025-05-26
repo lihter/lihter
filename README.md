@@ -63,3 +63,5 @@ Once upon a debug—way back in 2018, while I was elbow-deep in Xcode on my trus
 > - 💼 Find me on **LinkedIn**: [Marko Lihter](https://www.linkedin.com/in/marko-lihter/)
 
 > *May your bugs be shallow and your pull requests merge cleanly.* 🚀
+
+![IMG_0607](https://github.com/user-attachments/assets/cf39931a-260a-4086-b110-150d58bacfbb)
