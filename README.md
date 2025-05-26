@@ -4,6 +4,24 @@
 
 ---
 
+### 🛠 Tech Stack
+
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat&logo=swift)
+![SwiftUI](https://img.shields.io/badge/SwiftUI-0D62FF?style=flat&logo=swift)
+![UIKit](https://img.shields.io/badge/UIKit-000000?style=flat&logo=apple)
+![Combine](https://img.shields.io/badge/Combine-6D5FFE?style=flat&logo=apple)
+![Async/Await](https://img.shields.io/badge/Async%2FAwait-555555?style=flat)
+![RxSwift](https://img.shields.io/badge/RxSwift-0176FF?style=flat&logo=rxswift)
+![Clean Architecture](https://img.shields.io/badge/Clean%20Architecture-ffffff?style=flat)
+![MVVM](https://img.shields.io/badge/MVVM-4CAF50?style=flat)
+![TCA](https://img.shields.io/badge/TCA-8E44AD?style=flat)
+![HealthKit](https://img.shields.io/badge/HealthKit-34AADC?style=flat&logo=apple) 
+![BLE](https://img.shields.io/badge/BLE-007AFF?style=flat)
+![SnapKit](https://img.shields.io/badge/Swift-FA7343?style=flat&logo=swift)
+![OWASP](https://img.shields.io/badge/OWASP-CC0000?style=flat&logo=owasp)
+
+---
+
 ## 👶 My Origin Story
 
 Once upon a debug—way back in 2018, while I was elbow-deep in Xcode on my trusty **Hackintosh**, a bright-eyed iOS apprentice dared to ship their very first app, **Tasker**. It crashed more often than Wile E. Coyote after getting an anvil dropped on his head. Armed with bottomless coffee cups, fueled by špek and onion, and more pilgrimages to StackOverflow than any sane person should attempt, I wrestled those crash logs into submission. By the end of the hackathon—I somehow staggered my way to first place. That’s when it hit me: maybe, just maybe, I should try to get into iOS.  
