@@ -22,7 +22,7 @@
 
 ---
 
-## 👶 My Origin Story
+## 👶 Origin Story
 
 Once upon a debug—way back in 2018, while I was elbow-deep in Xcode on my trusty **Hackintosh**, a bright-eyed iOS apprentice dared to ship their very first app, **Tasker**. It crashed more often than Wile E. Coyote after getting an anvil dropped on his head. Armed with bottomless coffee cups, fueled by špek and onion, and more pilgrimages to StackOverflow than any sane person should attempt, I wrestled those crash logs into submission. By the end of the hackathon—I somehow staggered my way to first place. That’s when it hit me: maybe, just maybe, I should try to get into iOS.  
 
@@ -42,7 +42,7 @@ Once upon a debug—way back in 2018, while I was elbow-deep in Xcode on my trus
 - **LARQ (2025–)**  
   - Developing two iOS apps (Brita & LARQ) that pair with the smart water bottles via Bluetooth, redefining the digital hydration experience.
 
-## 🎯 My Superpowers
+## 🎯 Superpowers
 
 | Superpower                    | Origin Story                          |
 |-------------------------------|---------------------------------------|
