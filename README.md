@@ -24,13 +24,12 @@
 
 ## 👶 Origin Story
 
-Once upon a debug—way back in 2018, while I was elbow-deep in Xcode on my trusty **Hackintosh**, a bright-eyed iOS apprentice dared to ship their very first app, **Tasker**. It crashed more often than Wile E. Coyote after getting an anvil dropped on his head. Armed with bottomless coffee cups, fueled by špek and onion, and more pilgrimages to StackOverflow than any sane person should attempt, I wrestled those crash logs into submission. By the end of the hackathon—I somehow staggered my way to first place. That’s when it hit me: maybe, just maybe, I should try to get into iOS.  
+Once upon a debug—way back in 2018, while I was elbow deep in Xcode on my trusty **Hackintosh**, a bright eyed iOS apprentice dared to ship their very first app, **Tasker**. It crashed more often than Wile E. Coyote after getting an anvil dropped on his head. Armed with bottomless coffee cups, fueled by špek and onion, and more pilgrimages to StackOverflow than any sane person should attempt, I wrestled those crash logs into submission. By the end of the hackathon, I somehow staggered my way to first place. That’s when it hit me: maybe, just maybe, I should try to get into iOS.  
 
 ## 📱 iOS Engineering Adventures
 
 - **Freelance (2019–2021)**
   - Inventorly - a warehouse stock-tracker with high-speed code scanning and encrypted offline sync for efficient inventory management.
-  - Moneypenny - a decentralized asset NFT marketplace with on-chain minting and distributed content anchoring for secure transactions.
 
 - **Endava (2021–2024)**  
   - In three years at Endava, I led iOS teams to ship key features and squash bugs; architected iOS security audits; consulted clients; mentored peers; and delivered maintainable code.
